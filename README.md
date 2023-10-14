@@ -12,15 +12,12 @@ Aplikasi Android Shortcut Activity adalah alat pencarian aktivitas yang keren da
 
 - [Fitur](#Fitur)
 
-Demo
+- [Demo](#Demo)
 
-Cara Penggunaan
+- [Cara Penggunaan](#Cara Penggunaan)
 
-Instalasi
+- [Instalasi](#Instalasi)
 
-Kontribusi
-
-Lisensi
 
  
 
@@ -36,13 +33,12 @@ Luncurkan Aktivitas - Mulai aktivitas yang diinginkan dengan sekali klik.
 
 Antarmuka Pengguna yang Ramah - Tampilan yang menarik dan mudah digunakan.
 
-Demo
 
-Demo
+## Demo
 
-Berikut adalah demo singkat mengenai bagaimana cara menggunakan Aplikasi Android Shortcut Activity.
 
-Cara Penggunaan
+
+## Cara Penggunaan
 
 Buka Aplikasi Android Shortcut Activity.
 
@@ -52,7 +48,7 @@ Klik pada aktivitas yang ingin Anda luncurkan.
 
 Aktivitas yang dipilih akan dimulai otomatis.
 
-Instalasi
+## Instalasi
 
 Untuk menginstal Aplikasi Android Shortcut Activity pada perangkat Android Anda, ikuti langkah-langkah berikut:
 
