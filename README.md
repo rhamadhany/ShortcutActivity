@@ -29,7 +29,13 @@ Launch Activity - Start the desired activity with just one click.
 User-Friendly Interface - Appealing and easy-to-use display.
 
 ## Demo
-[![Watch the video](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.jpg)](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.mp4)
+
+
+
+https://github.com/rhamadhany/ShortcutActivity/assets/77799700/38006b37-cdd1-4694-a319-9508a5cfa6e6
+
+
+
 
 ## How to Use
 
