@@ -29,12 +29,7 @@ Launch Activity - Start the desired activity with just one click.
 User-Friendly Interface - Appealing and easy-to-use display.
 
 ## Demo
-<video width="640" height="480" controls>
-  <source src="https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+[![Watch the video](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.mp4)
 ## How to Use
 
 1. Open the Android Shortcut Activity App.
