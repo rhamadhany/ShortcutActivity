@@ -8,9 +8,9 @@ Aplikasi Android Shortcut Activity adalah alat pencarian aktivitas yang keren da
 
  
 
-Daftar Isi
+##Daftar Isi
 
-Fitur
+- [Fitur] (#Fitur)
 
 Demo
 
@@ -24,7 +24,7 @@ Lisensi
 
  
 
-Fitur
+## Fitur
 
 :rocket: Berikut adalah beberapa fitur kunci dari Aplikasi Android Shortcut Activity:
 
