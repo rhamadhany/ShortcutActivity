@@ -30,7 +30,8 @@ User-Friendly Interface - Appealing and easy-to-use display.
 
 ## Demo
 
-[Add Demo content here]
+![alt text](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.jpg)
+
 
 ## How to Use
 
