@@ -29,8 +29,10 @@ Launch Activity - Start the desired activity with just one click.
 User-Friendly Interface - Appealing and easy-to-use display.
 
 ## Demo
-
-![alt text](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.jpg)
+<video width="640" height="480" controls>
+  <source src="https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## How to Use
