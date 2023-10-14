@@ -30,6 +30,7 @@ User-Friendly Interface - Appealing and easy-to-use display.
 
 ## Demo
 [![Watch the video](https://github.com/rhamadhany/ShortcutActivity/blob/main/demo.mp4)
+
 ## How to Use
 
 1. Open the Android Shortcut Activity App.
