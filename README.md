@@ -2,7 +2,7 @@
 
 Aplikasi Android Shortcut Activity
 
-https://github.com/rhamadhany/ShortcutActivity/blob/main/logo.png
+![alt text](https://github.com/rhamadhany/ShortcutActivity/blob/main/logo.png)
 
 Aplikasi Android Shortcut Activity adalah alat pencarian aktivitas yang keren dan modern, dirancang untuk membantu Anda menemukan semua aktivitas pada perangkat Android dan meluncurkannya dengan mudah. Proyek ini tersedia di GitHub dengan antarmuka yang intuitif dan fitur yang mengagumkan. Tingkatkan efisiensi dan produktivitas Anda dengan alat yang sangat berguna ini.
 
