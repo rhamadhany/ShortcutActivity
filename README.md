@@ -10,7 +10,7 @@ Aplikasi Android Shortcut Activity adalah alat pencarian aktivitas yang keren da
 
 ##Daftar Isi
 
-- [Fitur] (#Fitur)
+- [Fitur](#Fitur)
 
 Demo
 
