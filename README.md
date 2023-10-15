@@ -51,7 +51,7 @@ https://github.com/rhamadhany/ShortcutActivity/assets/77799700/38006b37-cdd1-469
 
 To install the Android Shortcut Activity App on your Android device, follow these steps:
 
-1. Open the GitHub page of this project and go to the "![Release](https://github.com/rhamadhany/ShortcutActivity/releases/tag/v1.0)" tab.
+1. Open the GitHub page of this project and go to the ![Release](https://github.com/rhamadhany/ShortcutActivity/releases/latest) tab.
 
 2. Find the latest version of the application and click the "Assets" button below the release description.
 
