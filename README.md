@@ -32,7 +32,9 @@ User-Friendly Interface - Appealing and easy-to-use display.
 
 
 
-https://github.com/rhamadhany/ShortcutActivity/assets/77799700/38006b37-cdd1-4694-a319-9508a5cfa6e6
+
+https://github.com/rhamadhany/ShortcutActivity/assets/77799700/37734cd3-2691-4241-9cf8-0869077518fc
+
 
 
 
